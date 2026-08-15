@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.rizmarino.twa",
-        "sha256_cert_fingerprints": ["EF:97:68:4F:5A:C1:84:AD:B3:74:45:04:5B:F8:63:F8:B4:CC:8A:49:0B:6E:21:C6:60:FA:30:AB:66:0E:BB:23"]
+        "sha256_cert_fingerprints": ["22:77:80:08:DE:9D:FE:C8:09:DA:F8:88:0C:C6:E4:91:DC:BC:7E:9C:44:20:3A:4B:00:74:1A:15:85:78:3A:D8"]
       }
     }]
