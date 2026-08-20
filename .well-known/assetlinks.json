@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.curiosriz.potatocam",
-        "sha256_cert_fingerprints": ["C1:E6:CA:B4:C7:65:9A:EC:D9:CD:99:51:5D:71:E8:85:EF:CE:36:1A:A4:0A:D7:F9:3C:4F:C3:CF:29:5C:42:A6"]
+        "sha256_cert_fingerprints": ["F1:BC:23:7F:45:5B:8E:88:F9:C6:29:84:B5:E5:B4:42:0D:3E:38:D5:90:13:7F:47:7C:FB:70:51:8A:47:A3:A2"]
       }
     }]
