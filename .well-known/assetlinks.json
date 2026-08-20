@@ -1,8 +1,11 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.curiousriz.potatocam",
-        "sha256_cert_fingerprints": ["F1:BC:23:7F:45:5B:8E:88:F9:C6:29:84:B5:E5:B4:42:0D:3E:38:D5:90:13:7F:47:7C:FB:70:51:8A:47:A3:A2"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.curiousriz.potatocam",
+      "sha256_cert_fingerprints":
+        ["F3:2F:1C:24:6C:B6:F6:E0:98:EE:CA:66:B7:F1:05:31:39:AD:4B:BC:74:F7:48:24:9D:64:8F:76:DF:ED:1D:D8"]
+    }
+  }
+]
